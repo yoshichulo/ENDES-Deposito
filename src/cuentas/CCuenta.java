@@ -5,6 +5,7 @@ public class CCuenta {
 
     /**
      * @return the nombre
+     * Visto. El enlace al repositorio debía ir en el trabajo
      */
     public String getNombre() {
         return nombre;
